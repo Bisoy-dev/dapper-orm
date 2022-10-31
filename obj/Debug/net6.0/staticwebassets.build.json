@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/D5LEfAmoH09qDEnjH6O082xKznfNpXUKfV608yueXI=",
+  "Source": "PersonDetailWithQrCodeApp",
+  "BasePath": "_content/PersonDetailWithQrCodeApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
